@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/superheroes-and-villains/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/superheroes-and-villains/static/js/main.f20eaba8.chunk.js",
+    "main.js.map": "/superheroes-and-villains/static/js/main.f20eaba8.chunk.js.map",
+    "runtime-main.js": "/superheroes-and-villains/static/js/runtime-main.34c7d7e9.js",
+    "runtime-main.js.map": "/superheroes-and-villains/static/js/runtime-main.34c7d7e9.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/superheroes-and-villains/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c04491a8.chunk.js": "/superheroes-and-villains/static/js/2.c04491a8.chunk.js",
+    "static/js/2.c04491a8.chunk.js.map": "/superheroes-and-villains/static/js/2.c04491a8.chunk.js.map",
+    "index.html": "/superheroes-and-villains/index.html",
+    "precache-manifest.0f03f226750613faaa33ef69270c2fbc.js": "/superheroes-and-villains/precache-manifest.0f03f226750613faaa33ef69270c2fbc.js",
+    "service-worker.js": "/superheroes-and-villains/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/superheroes-and-villains/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/superheroes-and-villains/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c04491a8.chunk.js.LICENSE.txt": "/superheroes-and-villains/static/js/2.c04491a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34c7d7e9.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.c04491a8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f20eaba8.chunk.js"
+  ]
+}
