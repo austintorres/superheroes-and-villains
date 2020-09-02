@@ -38,9 +38,9 @@ function App() {
   };
 
   return (
-    <Container fluid>
+    <Container>
       <Row className="justify-content-center">
-        <h1>Heroes and Villains</h1>
+        <h1>Superheroes And Villains</h1>
       </Row>
       <SearchBar
         error={error}

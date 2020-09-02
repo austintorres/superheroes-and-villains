@@ -20,7 +20,7 @@ function SearchBar({ getCharacter, error, setError, isLoading }) {
       <Form onSubmit={handleSubmit}>
         <Form.Group controlId="formBasicEmail">
           <Form.Label>Search for a hero or villain!</Form.Label>
-          <Form.Control placeholder="e.g. Superman" value={input} onChange={handleChange} />
+          <Form.Control placeholder="e.g. Spiderman" value={input} onChange={handleChange} />
           {error ? <Form.Text className="text-danger">{error}</Form.Text> : null}
         </Form.Group>
         {isLoading ? (
